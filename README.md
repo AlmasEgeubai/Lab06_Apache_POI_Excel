@@ -1,4 +1,4 @@
-# BMK_JAVA_poi.msexcel
+# EAK_JAVA_poi.msexcel
 
 Программа формирования оригинального отчета (заполненного бланка) в MS Excel с использованием Apache POI<br/>
 
