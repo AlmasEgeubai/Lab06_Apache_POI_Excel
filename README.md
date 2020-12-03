@@ -6,6 +6,6 @@
 Вариант - 4 (Блокнот)
 
 Интерфейс программы:<br/>
-![prog](excel.png)<br/><br/>
+![prog](notebook.png)<br/><br/>
 Данные, экспоритрованные в Excel:<br/>
-![result](notebook.png)
+![result](excel.png)
